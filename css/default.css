@@ -65,7 +65,7 @@ h2
 h3
 {
     color: #000;
-    font-size: 1300%;
+    font-size: 160%;
 }
 @media(max-width: 1200px)
 {
@@ -73,7 +73,7 @@ h3
     {
         color: #000;
         /*        font-weight: 1;*/
-        font-size: 1000%;
+        font-size: 800%;
     }
 }
 h4
