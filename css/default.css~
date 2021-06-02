@@ -1,0 +1,108 @@
+html {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: white;
+    color: #444;
+    font-size: 0.8em;
+    font-family:'Lucida Grande','メイリオ',Meiryo,'ヒラギノ角ゴ Pro W3','Hiragino Kaku Gothic Pro','ＭＳ Ｐゴシック',sans-serif;
+    line-height: 175%;
+    text-align:left;
+    text-align: left;
+    margin: 2em;
+}
+
+p {
+    font-size: 1em;
+}
+
+blockquote {
+    border-left: 4px solid #999;
+    font-style: italic;
+    padding: 0 0 0 2em;
+    margin: 0 0 0 1em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    padding: 0;
+    margin: 0 0 1em 0;
+}
+
+h1 {
+    color: #666666;
+    font-size: 2em;
+    margin-bottom: 2em;
+}
+
+h2 {
+    color: #666666;
+    font-size: 1.5em;
+}
+
+h3 {
+    color: #666666;
+    font-size: 1.2em;
+}
+
+h4, h5, h6 {
+    color: #666666;
+    font-size: 1em;
+}
+
+a, a:active, a:visited {
+    color: #666666;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #cccccc;
+    text-decoration: underline;
+}
+
+img {
+    border: 1px solid #ddd;
+}
+
+div#header {
+    padding: 4em 2em 2em 2em;
+}
+
+div#content {
+    margin: 0 2em 4em 2em;
+    padding: 2em 0 0 0;
+    border-top: 1px dotted #ccc;
+}
+
+div#menu {
+    float: left;
+    width: 25%;
+    margin: 1em 0;
+}
+
+div#menu ul {
+    list-style: none outside;
+    margin: 0 0 1em 0;
+    padding: 0;
+}
+
+div#menu li {
+    display: block;
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    border-bottom:1px dotted #ccc;
+}
+
+div#main {
+    float: right;
+    width: 70%;
+    margin: 1em 0;
+}
+
+div#footer {
+    clear: both;
+    border-top: 1px solid #ccc;
+    text-align: right;
+}
