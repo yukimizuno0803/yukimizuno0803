@@ -95,7 +95,7 @@ h5
     {
         color: #000;
         font-weight: 1;
-        font-size: 1000%;
+        font-size: 200%;
     }
 }
 h6
@@ -283,7 +283,7 @@ div#header {
 }
 .mainPink
 {
-    background-color: orange;
+    background-color: pink;
     padding: 2%;
     text-align:center;
     
