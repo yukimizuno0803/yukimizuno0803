@@ -6,7 +6,7 @@ html
 
 body
 {
-    font-family: Helvetica, sans-serif;
+    font-family: 'Helvetica', sans-serif;
     font-size: 1rem;
     line-height: 1.0;
     color: #000
@@ -65,7 +65,7 @@ h2
 h3
 {
     color: #000;
-    font-size: 1000%;
+    font-size: 1300%;
 }
 @media(max-width: 1200px)
 {
